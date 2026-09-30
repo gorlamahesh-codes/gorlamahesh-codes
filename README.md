@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Pursuing Master of Computer Applications (MCA) at Sai Sudhir PG College, ECIL, Hyderabad (Expected 2026)
+- 🎓 **Education:**  Master of Computer Applications (MCA) at Sai Sudhir PG College, ECIL, Hyderabad (Expected 2026)
 - 💻 **Core Strengths:** Python, SQL, Object-Oriented Programming (OOP), DBMS and software development fundamentals.
 - 🤖 **AI & ML:** Built a deep learning based cyber threat detection system using TF-IDF event profiles.
 - 🧪 **Testing:** Hands-on experience in manual testing, test case design and defect tracking, with foundational Selenium knowledge.
@@ -53,27 +53,6 @@
 - Gained hands-on experience in manual testing, including test case design, test execution and defect tracking.
 - Executed end-to-end testing for a manual testing project, covering functional test scenarios and defect identification.
 - Acquired foundational knowledge of automation testing using Selenium.
-
----
-
-### 🎓 Education
-
-| Qualification | Institution | Year | Score |
-| :--- | :--- | :--- | :--- |
-| MCA | Sai Sudhir PG College, ECIL, Hyderabad | Expected 2026 | Ongoing |
-| B.Sc (MSCS) | MSR Degree College, Kavali | 2020 – 2024 | 74.8% |
-| Intermediate (MPC) | Sai Co-Operative Junior College, Kavali | 2018 – 2020 | 83.6% |
-| Secondary Board (10th) | Abhyudaya High School, Gudlur | 2017 – 2018 | 93% |
-
----
-
-### 📜 Certifications
-
-- 🏆 **Data Analytics (No-Code + Low-Code)** — Anudip Foundation, Mettl & Bank of America (Jul – Nov 2025)
-- 🏆 **Test Engineer** — ITC Infotech & ICT Academy (Dec 2025 – Feb 2026)
-- 🏆 **STEM Education Program: Enabling IT Industry Readiness** — Grade A
-- 🎓 **Google AI Essentials** — Coursera
-- 🎓 **Generative AI Fundamentals** — Microsoft
 
 ---
 
