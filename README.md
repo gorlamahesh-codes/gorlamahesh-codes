@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:**  Master of Computer Applications (MCA) at Sai Sudhir PG College, ECIL, Hyderabad (Expected 2026)
+- 🎓 **Education:**  Master of Computer Applications (MCA) at Sai Sudhir PG College, ECIL, Hyderabad.
 - 💻 **Core Strengths:** Core Java, Python, SQL, Object-Oriented Programming (OOP), DBMS and software development fundamentals.
 - 🤖 **AI & ML:** Built a deep learning based cyber threat detection system using TF-IDF event profiles.
 - 🧪 **Testing:** Hands-on experience in manual testing, test case design and defect tracking, with foundational Selenium knowledge.
